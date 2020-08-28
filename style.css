@@ -1,0 +1,28 @@
+body {
+  background: #000;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+svg {
+  height: 60vh;
+  width: 100%;
+}
+
+#eyeleads {
+  fill: none;
+}
+
+.fa {
+  width: 100%;
+  text-align: center;
+}
+
+.fab, .fas {
+  color: #fff;
+  font-size: 1.5em;
+  margin: .5em;
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
